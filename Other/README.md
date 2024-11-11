@@ -27,7 +27,7 @@ Ce projet est un **solveur de Sudoku** développé en Python, capable de résoud
 1. **Cloner le Répertoire du Projet**
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/NathanAmoussou/M1S1_Sudoku
    ```
 
 2. **Accéder au Répertoire du Projet**

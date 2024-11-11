@@ -33,10 +33,8 @@ Ce projet est un **solveur de Sudoku** développé en Python, capable de résoud
 2. **Accéder au Répertoire du Projet**
 
    ```bash
-   cd sudoku-solver
+   cd M1S1_Sudoku
    ```
-
-   *Remplacez `sudoku-solver` par le nom du répertoire si différent.*
 
 ## Exécution du Programme
 
@@ -114,7 +112,6 @@ Votre entrée :
 - **Résolution Automatique** : Utilise des règles de déduction avancées pour résoudre la grille sans intervention de l'utilisateur si possible.
 - **Évaluation de la Difficulté** : Affiche le niveau de difficulté de la grille (`Facile`, `Moyen`, `Difficile`, `Très difficile`, `Impossible`) en fonction des règles utilisées.
 - **Interaction Utilisateur** : Permet à l'utilisateur d'entrer des valeurs lorsque le solveur ne peut pas progresser seul.
-- **Affichage Clair** : Montre la grille de manière lisible avec des séparateurs pour les blocs de Sudoku.
 
 ## Exemples
 
@@ -159,12 +156,10 @@ La difficulté est probablement Impossible ou l'input était faux.
 
 ## Conclusion
 
-Ce solveur de Sudoku est un outil puissant pour résoudre et analyser des grilles de différentes difficultés. En suivant ce guide, vous devriez être en mesure d'utiliser le programme efficacement. N'hésitez pas à explorer les fonctionnalités avancées et à tester différentes grilles pour voir comment le solveur réagit.
+Ce solveur de Sudoku est un outil robuste pour résoudre et analyser des grilles de différentes difficultés. En suivant ce guide, vous devriez être en mesure d'utiliser le programme efficacement.
 
 **Bon Sudoku !**
 
 ---
 
-**Contact :**
-
-Pour toute question ou suggestion, veuillez contacter l'équipe de développement à [votre-email@example.com](mailto:votre-email@example.com).
+**Projet réalisé par AMOUSSOU Nathan**
